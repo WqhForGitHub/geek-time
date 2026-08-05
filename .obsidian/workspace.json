@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a80ef924980edaef",
+            "id": "21dd562bf75b3b6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "8b499f30164a1e3e",
@@ -99,9 +99,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03. 正则表达式入门课/02. 基础篇/第01章：元字符：如何巧妙记忆正则表达式的基本元件？.md",
+                "file": "03. 正则表达式入门课/02. 基础篇/第02章：量词与贪婪.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -170,7 +170,8 @@
               "title": "大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -188,8 +189,9 @@
       "bases:新建数据库": false
     }
   },
-  "active": "a80ef924980edaef",
+  "active": "21dd562bf75b3b6e",
   "lastOpenFiles": [
+    "03. 正则表达式入门课/02. 基础篇/第02章：量词与贪婪.md",
     "03. 正则表达式入门课/02. 基础篇/第01章：元字符：如何巧妙记忆正则表达式的基本元件？.md",
     "f.,md"
   ]
