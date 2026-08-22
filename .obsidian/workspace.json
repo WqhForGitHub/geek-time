@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. 正则表达式入门课/02. 基础篇/第03章：分组与引用.md",
+                "file": "03. 正则表达式入门课/02. 基础篇/第04章：匹配模式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第03章：分组与引用"
+              "title": "第04章：匹配模式"
             }
           }
         ]
@@ -99,11 +99,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03. 正则表达式入门课/02. 基础篇/第02章：量词与贪婪.md",
-                "collapseAll": false,
+                "file": "03. 正则表达式入门课/02. 基础篇/第03章：分组与引用.md",
+                "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. 正则表达式入门课/02. 基础篇/第03章：分组与引用.md",
+                "file": "03. 正则表达式入门课/02. 基础篇/第04章：匹配模式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -189,11 +189,13 @@
       "bases:新建数据库": false
     }
   },
-  "active": "1f4d1966c643faa1",
+  "active": "82e1875686617dac",
   "lastOpenFiles": [
-    "03. 正则表达式入门课/02. 基础篇/第02章：量词与贪婪.md",
     "03. 正则表达式入门课/02. 基础篇/第01章：元字符：如何巧妙记忆正则表达式的基本元件？.md",
     "03. 正则表达式入门课/02. 基础篇/第03章：分组与引用.md",
+    "03. 正则表达式入门课/02. 基础篇/第02章：量词与贪婪.md",
+    "03. 正则表达式入门课/02. 基础篇/第04章：匹配模式.md",
+    "03. 正则表达式入门课/02. 基础篇/新建 文本文档.txt",
     "().md",
     "f.,md"
   ]
